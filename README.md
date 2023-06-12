@@ -20,7 +20,6 @@ The dataset is credited to Ronny Kohavi and Barry Becker and was drawn from the 
 * native_country.
 * category
 
-![Alt text](https://drive.google.com/file/d/1MCV4z0xlB7IQQ3bHS-6CrWK-2tqzg0Ao/view?usp=sharing)
 
 ## After testing many models Adaboost is the only one with highest Accuracy Score.
 ## At last we got an accuracy score of 86% on the model. which is quite good with this imbalance dataset.
