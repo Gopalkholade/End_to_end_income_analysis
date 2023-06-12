@@ -19,7 +19,7 @@ The dataset is credited to Ronny Kohavi and Barry Becker and was drawn from the 
 * hours_per_week.
 * native_country.
 * category
-
+![Alt text](output.jpg)
 
 ## After testing many models Adaboost is the only one with highest Accuracy Score.
 ## At last we got an accuracy score of 86% on the model. which is quite good with this imbalance dataset.
